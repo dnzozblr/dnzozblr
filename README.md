@@ -5,7 +5,7 @@
 ---
 
 ### 💻 Şu anda neler yapıyorum?
-- Üniversitede **Bilgisayar Programcılığı#** bölümünde okurken alanımla ilgili belirli dersler alıyorum ve kendimi geliştiriyorum.
+- Üniversitede **Bilgisayar Programcılığı** bölümünde okurken alanımla ilgili belirli dersler alıyorum ve kendimi geliştiriyorum.
 - Özellikle **C#** ve **Python** yazılım dilleri ile ilgileniyorum ve kendimi bu alanda geliştiriyorum.
 - Açık kaynak projelere katkıda bulunmaya ve topluluğuma yardımcı olmaya çalışıyorum.
 
