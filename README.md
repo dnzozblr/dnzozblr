@@ -5,15 +5,15 @@
 ---
 
 ### 💻 Şu anda neler yapıyorum?
-- Üniversitede **C#**, **Algoritma**, **Veri Tabanları** ve **Web Tasarımı** dersleri alıyorum.
-- Özellikle **C#** ile ilgileniyorum ve kendimi bu alanda geliştiriyorum.
+- Üniversitede **Bilgisayar Programcılığı#** bölümünde okurken alanımla ilgili belirli dersler alıyorum ve kendimi geliştiriyorum.
+- Özellikle **C#** ve **Python** yazılım dilleri ile ilgileniyorum ve kendimi bu alanda geliştiriyorum.
 - Açık kaynak projelere katkıda bulunmaya ve topluluğuma yardımcı olmaya çalışıyorum.
 
 ---
 
 ### 🚀 Hedeflerim
-- Yazılım alanında kendimi geliştirirken, sektörde iş bulmak.
-- Bir yandan topluluğuma destek olmaya devam etmek.
+- Yazılım alanında kendimi geliştirirken bir yandan sektörde iş bulmak ve hem çalışıp hem de kendimi geliştirmeye devam etmek.
+- Öte yandan ise kendimi geliştirerek topluluğa destek sağlamak.
 
 ---
 
